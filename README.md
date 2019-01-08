@@ -24,4 +24,5 @@
 ![](./img/dummy.gif)
 
 ### TODO:
+- [ ] Update for Blender 2.8 compatibility
 - [ ] Save sprites to sprite sheet
